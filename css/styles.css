@@ -1,0 +1,101 @@
+body{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: tahoma, sans-serif;
+}
+
+#navBar{
+	width: 100%;
+	padding: 5px 0 5px 0;
+	background-color: green;
+}
+#navBar h1{
+	font-size: 1.2em;
+	padding: 0 0 0 15px;
+	color: white;
+}
+
+#bannerArea {
+	height: 200px;
+	width: 100%;
+	background-color: lightgreen;
+	padding-top: 0;
+}
+
+#bannerArea #mainText {
+	text-align: center;
+	padding-top: 5%;
+}
+
+#bannerArea .codeArea {
+	text-align: center;
+}
+
+.codeArea {
+	padding: 3px 0 3px 15px;
+	background-color: grey;
+}
+
+.codeArea p{
+	color: white;
+	font-size: .9em
+}
+
+
+#navigations {
+	text-align: center;
+	padding: 10px 0 12px 0;
+}
+
+#navigations a{
+	text-decoration: none;
+	padding: 0 20px 10px 20px;
+	border-right: 1px solid lightgreen;
+	border-left: 1px solid lightgreen;
+	border-bottom: 5px transparent lightgreen;
+	color: green;
+	font-family: Halvetica;
+	font-size: 1.2em;
+}
+
+#navigations a:hover{
+	border-bottom: 5px solid lightgreen;	
+}
+
+#navigations .active{
+	border-bottom: 5px solid lightgreen;
+	font-weight: bold;	
+}
+
+
+#bodyContainer {
+	padding: 10px 30px 60px 30px;
+	border: 1px solid lightgreen;
+	text-align: center;
+	text-align: justify;
+	min-height: 240px;
+	color: black;
+}
+
+#bodyContainer h2{
+	color: green;
+	font-size: .9em;
+	text-decoration: underline;
+}
+
+#bodyContainer a{
+	text-decoration: none;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: lightseagreen;
+}
+
+
+#footer {
+	text-align: center;
+	background-color: darkgreen;
+	font-size: 1.0em;
+	padding: 10px 0 15px 0;
+	color: black;
+}
