@@ -111,4 +111,4 @@ const instruction = `<div class="">
 		</div>`
 
 
-const contributors = `<a href='https://github.com/Ibra-Portfolio' target='_blank'>@Ibra_Portfolio</a>`
+const contributors = `<a href='https://github.com/Ibra-Codes' target='_blank'>@Ibra-Codes</a>`
