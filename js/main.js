@@ -54,7 +54,7 @@ const instruction = `<div class="">
 				</div>
 				<p>2) Clone/download django abstract startpoint contents into your django project</p>
 				<div class="codeArea">
-					<p>(VirtualEnvironment) C:/User/MyProject> git clone https://github.com/Ibra-Portfolio/Django-Abstract-StartPoint.git</p>
+					<p>(VirtualEnvironment) C:/User/MyProject> git clone https://github.com/IbraCodes/Django-Abstract-StartPoint.git</p>
 					<p>(VirtualEnvironment) C:/User/MyProject> dir</p>
 					<p>--MyProject</p>
 					<ul>
@@ -111,4 +111,4 @@ const instruction = `<div class="">
 		</div>`
 
 
-const contributors = `<a href='https://github.com/Ibra-Codes' target='_blank'>@Ibra-Codes</a>`
+const contributors = `<a href='https://github.com/IbraCodes' target='_blank'>@Ibra-Codes</a>`
